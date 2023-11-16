@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+#mainbody{
+    margin-left: 40%;
+    margin-top: 2px;
+    background: linear-gradient(#790955,#7300ff);
+    width: 250px;
+    height: 390px;
+    border: solid 6px;
+    border-radius: 12px;
+}
+#screen{
+    border-width: 5px;
+    margin-left: 18px;
+    width: 85%;
+    height: 41px;
+    margin-top: 13px;
+    border-color: black;
+    border-radius: 8px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    pointer-events: none;
+}
+but{
+    width: 248px;
+    height: 334px;
+    margin-left: 1px;
+}
+button{
+    width: 45px;
+    height: 45px;
+    margin-top: 20px;
+    background: linear-gradient(#540979#080024);
+    margin-left: 10px;
+    border: solid steelblue;
+    border-radius: 20pc;
+    font-size: 24px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+button:hover{
+    background: linear-gradient(#790934#080024);
+}
